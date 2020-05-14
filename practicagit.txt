@@ -1,1 +1,1 @@
-Esta es una prueba para aprender a ocupar git como un profesional
+Esta es una practica para aprender a ocupar git como un profesional.
