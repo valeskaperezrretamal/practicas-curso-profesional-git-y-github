@@ -1,4 +1,2 @@
-Esta es una practica para aprender a ocupar git como una profesiona.
-Será un blog donde se hablará de su vida e intereses.
-
+Esta será un blog realizado durante la cuarentena.
 
